@@ -1,2 +1,2 @@
 # Practice
-For the practice of Git and GitHub
+This repo is For the practice of Git and GitHub
